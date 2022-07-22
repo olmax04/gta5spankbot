@@ -1,0 +1,787 @@
+[Info][-] - Proccess['right'](968,830) Pixel[(210, 185, 87)]
+[Info][-] - Proccess['down'](957,839) Pixel[(212, 186, 82)][Info][-] - Proccess['left'](953,831) Pixel[(88, 31, 28)][Info][-] - Proccess['up'](956,825) Pixel[(88, 32, 30)][Info][-] - Proccess['right'](968,830) Pixel[(210, 185, 87)]
+
+[Info][-] - Proccess['right'](968,830) Pixel[(210, 185, 87)]
+
+
+[Info][-] - Proccess['left'](953,831) Pixel[(141, 96, 71)]
+[Info][-] - Proccess['up'](956,825) Pixel[(89, 32, 29)]
+[Info][-] - Proccess['right'](968,830) Pixel[(210, 185, 87)]
+[Info][-] - Proccess['left'](953,831) Pixel[(165, 122, 95)]
+[Info][-] - Proccess['down'](957,839) Pixel[(124, 81, 59)]
+[Info][-] - Proccess['up'](956,825) Pixel[(0, 0, 0)]
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][-] - Proccess['left'](953,831) Pixel[(0, 0, 0)]
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][+] - Proccess['up'](956,825) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][+] - Proccess['left'](953,831) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['down'](964,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](964,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][+] - Proccess['left'](953,836) Pixel[(0, 0, 0)]
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+2
+1
+[Info][+] - Proccess['up'](956,825) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][+] - Proccess['left'](952,833) Pixel[(0, 0, 0)]
+3
+[Info][-] - Proccess['down'](964,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](964,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][+] - Proccess['up'](956,825) Pixel[(0, 0, 0)][Info][-] - Proccess['right'](968,830) Pixel[(87, 135, 199)]
+[Info][-] - Proccess['down'](964,839) Pixel[(255, 255, 255)]
+OK[Успех] - Клавиша нажата 'left'
+1[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+
+[Info][-] - Proccess['right'](968,830) Pixel[(87, 135, 199)]
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+
+[Info][+] - Proccess['up'](964,825) Pixel[(0, 0, 0)]
+2
+[Info][-] - Proccess['right'](968,830) Pixel[(87, 135, 199)][Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)][Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+
+
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(87, 135, 199)]
+[Info][+] - Proccess['up'](961,823) Pixel[(0, 0, 0)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(87, 135, 199)]
+3
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(87, 135, 199)]
+[Info][-] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+[Info][-] - Proccess['left'](953,831) Pixel[(0, 0, 0)]
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+OK[Успех] - Клавиша нажата 'up'
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][+] - Proccess['left'](953,831) Pixel[(0, 0, 0)]
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]1[Info][+] - Proccess['up'](956,825) Pixel[(0, 0, 0)]
+1
+
+
+[Info][-] - Proccess['down'](964,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['up'](964,825) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['left'](953,836) Pixel[(0, 0, 0)]
+2
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][-] - Proccess['down'](964,839) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['up'](956,825) Pixel[(0, 0, 0)]
+1
+[Info][+] - Proccess['left'](952,833) Pixel[(0, 0, 0)]
+3
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['up'](964,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][-] - Proccess['down'](964,839) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['up'](956,825) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['up'](964,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][-] - Proccess['down'](964,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][+] - Proccess['up'](956,825) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(87, 135, 199)]
+[Info][+] - Proccess['up'](964,825) Pixel[(0, 0, 0)]
+2
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(87, 135, 199)]
+[Info][+] - Proccess['up'](961,823) Pixel[(0, 0, 0)]
+3
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(87, 135, 199)]
+[Info][-] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+OK[Успех] - Клавиша нажата 'left'[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][-] - Proccess['down'](964,839) Pixel[(255, 255, 255)]
+
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][+] - Proccess['left'](953,831) Pixel[(0, 0, 0)]
+1
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][+] - Proccess['left'](953,836) Pixel[(0, 0, 0)]
+2
+[Info][-] - Proccess['down'](964,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][+] - Proccess['left'](952,833) Pixel[(0, 0, 0)]
+3
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][-] - Proccess['down'](964,839) Pixel[(0, 0, 0)]
+[Info][+] - Proccess['right'](968,830) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+OK[Успех] - Клавиша нажата 'up'
+[Info][-] - Proccess['right'](968,836) Pixel[(23, 87, 167)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['right'](968,830) Pixel[(0, 0, 0)]
+1[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,836) Pixel[(23, 87, 167)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['right'](968,830) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,836) Pixel[(191, 239, 255)]
+[Info][-] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+OK[Успех] - Клавиша нажата 'left'
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['down'](964,839) Pixel[(71, 143, 207)]
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['down'](964,839) Pixel[(71, 143, 207)]
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(255, 255, 255)][Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)][Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)][Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+
+
+1
+
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)][Info][-] - Proccess['down'](964,839) Pixel[(71, 143, 207)]
+
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][+] - Proccess['left'](953,831) Pixel[(0, 0, 0)]
+1
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][+] - Proccess['up'](956,825) Pixel[(0, 0, 0)][Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+
+1
+[Info][+] - Proccess['left'](953,836) Pixel[(0, 0, 0)]
+2
+[Info][-] - Proccess['down'](964,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][-] - Proccess['up'](964,825) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['left'](952,833) Pixel[(0, 0, 0)]
+3
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)][Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+
+[Info][+] - Proccess['up'](956,825) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+1
+[Info][-] - Proccess['right'](968,830) Pixel[(87, 135, 199)]
+[Info][+] - Proccess['up'](964,825) Pixel[(0, 0, 0)]
+2
+[Info][-] - Proccess['down'](964,839) Pixel[(255, 255, 255)]
+[Успех] - Клавиша нажата 'left'
+[Info][-] - Proccess['right'](968,830) Pixel[(87, 135, 199)]
+[Info][+] - Proccess['up'](961,823) Pixel[(0, 0, 0)]
+3
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(87, 135, 199)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)][Info][-] - Proccess['right'](968,830) Pixel[(87, 135, 199)]
+
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+OK[Успех] - Клавиша нажата 'up'[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+
+[Info][+] - Proccess['left'](953,831) Pixel[(0, 0, 0)]
+1[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+
+1
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][+] - Proccess['up'](956,825) Pixel[(0, 0, 0)]
+[Info][+] - Proccess['left'](953,836) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['down'](964,839) Pixel[(255, 255, 255)]2
+
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][-] - Proccess['up'](964,825) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['left'](952,833) Pixel[(0, 0, 0)]
+3
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][+] - Proccess['up'](956,825) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['down'](964,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](964,825) Pixel[(255, 255, 255)]
+[Успех] - Клавиша нажата 'left'
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['right'](968,830) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['down'](964,839) Pixel[(71, 143, 207)]
+[Info][-] - Proccess['right'](968,830) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['right'](968,830) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['down'](964,839) Pixel[(71, 143, 207)]
+[Info][-] - Proccess['right'](968,830) Pixel[(255, 255, 255)][Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['down'](964,839) Pixel[(71, 143, 207)]
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(0, 0, 0)]
+[Info][+] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+1
+[Info][-] - Proccess['left'](953,831) Pixel[(0, 0, 0)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['right'](968,830) Pixel[(0, 0, 0)]
+1
+[Info][+] - Proccess['down'](964,839) Pixel[(0, 0, 0)]
+2
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['left'](953,831) Pixel[(0, 0, 0)]
+[Info][-] - Proccess['right'](968,836) Pixel[(23, 87, 167)]
+[Info][-] - Proccess['down'](960,841) Pixel[(255, 255, 255)]
+1
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['right'](968,830) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['left'](953,836) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,836) Pixel[(23, 87, 167)]
+[Info][+] - Proccess['left'](953,831) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['right'](968,830) Pixel[(0, 0, 0)]
+1[Info][-] - Proccess['left'](953,836) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['left'](953,831) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['right'](968,836) Pixel[(23, 87, 167)][Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]      
+[Info][-] - Proccess['up'](956,825) Pixel[(0, 0, 0)]
+
+[Info][-] - Proccess['left'](953,836) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['up'](956,825) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(87, 135, 199)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['up'](964,825) Pixel[(0, 0, 0)]
+2
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(87, 135, 199)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['up'](961,823) Pixel[(0, 0, 0)]
+3
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(87, 135, 199)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Успех] - Клавиша нажата 'up'
+[Info][+] - Proccess['left'](953,831) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][-] - Proccess['down'](964,839) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['left'](953,836) Pixel[(0, 0, 0)]
+2
+[Info][+] - Proccess['up'](956,825) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][+] - Proccess['left'](952,833) Pixel[(0, 0, 0)]
+3
+[Info][-] - Proccess['up'](964,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(0, 0, 0)]
+[Info][-] - Proccess['down'](964,839) Pixel[(0, 0, 0)]
+[Info][+] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+1
+[Info][+] - Proccess['right'](968,830) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Успех] - Клавиша нажата 'left'
+[Info][-] - Proccess['right'](968,836) Pixel[(23, 87, 167)]
+[Info][+] - Proccess['up'](964,825) Pixel[(0, 0, 0)][Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)][Info][+] - Proccess['left'](953,831) Pixel[(0, 0, 0)]
+[Info][+] - Proccess['right'](968,830) Pixel[(0, 0, 0)]
+1
+
+
+2
+1
+[Info][-] - Proccess['right'](968,836) Pixel[(23, 87, 167)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](961,823) Pixel[(191, 191, 191)]
+[Info][-] - Proccess['left'](953,836) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['right'](968,830) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)][Info][-] - Proccess['right'](968,836) Pixel[(23, 87, 167)][Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+
+[Info][+] - Proccess['left'](953,831) Pixel[(0, 0, 0)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)][Info][+] - Proccess['right'](968,830) Pixel[(0, 0, 0)]
+1
+
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+1
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['right'](968,836) Pixel[(191, 239, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['left'](953,836) Pixel[(0, 0, 0)]
+2[Info][-] - Proccess['down'](964,839) Pixel[(71, 143, 207)]
+[Info][-] - Proccess['right'](968,830) Pixel[(255, 255, 255)]
+
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['right'](968,830) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['left'](952,833) Pixel[(0, 0, 23)]
+3
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['down'](964,839) Pixel[(71, 143, 207)]
+[Info][-] - Proccess['right'](968,830) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(0, 0, 0)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Успех] - Клавиша нажата 'left'
+[Info][-] - Proccess['right'](968,830) Pixel[(87, 135, 199)]
+[Info][+] - Proccess['up'](956,825) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(87, 135, 199)]
+[Info][+] - Proccess['up'](964,825) Pixel[(0, 0, 0)]
+2
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(87, 135, 199)][Info][+] - Proccess['up'](961,823) Pixel[(0, 0, 0)]
+3
+
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(87, 135, 199)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(255, 255, 255)]
+[Успех] - Клавиша нажата 'up'
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['down'](964,839) Pixel[(71, 143, 207)][Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)][Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+
+[Info][-] - Proccess['right'](968,830) Pixel[(255, 255, 255)][Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+
+
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['down'](964,839) Pixel[(71, 143, 207)]
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(0, 0, 0)]
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][-] - Proccess['down'](964,839) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['left'](953,831) Pixel[(0, 0, 0)]
+1
+[Info][+] - Proccess['up'](956,825) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][+] - Proccess['left'](953,836) Pixel[(0, 0, 0)]
+2
+[Info][-] - Proccess['up'](964,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)][Info][-] - Proccess['down'](964,839) Pixel[(255, 255, 255)][Info][+] - Proccess['left'](952,833) Pixel[(0, 0, 0)][Info][+] - Proccess['up'](956,825) Pixel[(0, 0, 0)]
+1
+
+
+
+[Info][-] - Proccess['up'](964,825) Pixel[(255, 255, 255)]
+3
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][+] - Proccess['up'](956,825) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['down'](964,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][-] - Proccess['up'](964,825) Pixel[(255, 255, 255)][Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+
+1
+[Info][+] - Proccess['up'](956,825) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][-] - Proccess['down'](964,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](964,825) Pixel[(0, 0, 0)]
+[Info][-] - Proccess['right'](968,830) Pixel[(87, 135, 199)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['up'](956,825) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['right'](968,830) Pixel[(87, 135, 199)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['up'](964,825) Pixel[(0, 0, 0)]
+2
+[Info][-] - Proccess['right'](968,830) Pixel[(87, 135, 199)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['up'](961,823) Pixel[(255, 255, 255)]
+3
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Успех] - Клавиша нажата 'left'
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][-] - Proccess['down'](964,839) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['left'](953,831) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][+] - Proccess['left'](953,836) Pixel[(0, 0, 0)]
+2
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][-] - Proccess['down'](964,839) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['left'](952,833) Pixel[(0, 0, 0)]
+3
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['down'](964,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(87, 135, 199)]
+[Успех] - Клавиша нажата 'up'
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(87, 135, 199)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['up'](956,825) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['right'](968,830) Pixel[(87, 135, 199)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['up'](964,825) Pixel[(0, 0, 0)]
+2
+[Info][-] - Proccess['right'](968,830) Pixel[(0, 0, 0)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](961,823) Pixel[(191, 191, 191)]
+[Успех] - Клавиша нажата 'left'
+[Info][+] - Proccess['right'](968,830) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['left'](953,831) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['right'](968,836) Pixel[(23, 87, 167)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)][Info][-] - Proccess['left'](953,836) Pixel[(255, 255, 255)][Info][+] - Proccess['right'](968,830) Pixel[(0, 0, 0)]
+
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+
+1[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['left'](953,831) Pixel[(0, 0, 0)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]1[Info][-] - Proccess['right'](968,836) Pixel[(23, 87, 167)]
+
+
+
+[Info][+] - Proccess['right'](968,830) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['left'](953,836) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,836) Pixel[(23, 87, 167)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+1
+[Info][+] - Proccess['right'](968,830) Pixel[(255, 255, 255)]
+1
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['left'](953,836) Pixel[(0, 0, 0)]
+2
+[Info][-] - Proccess['right'](968,836) Pixel[(191, 239, 255)]
+[Info][-] - Proccess['down'](964,839) Pixel[(71, 143, 207)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['left'](952,833) Pixel[(0, 0, 23)]
+3
+[Info][-] - Proccess['right'](968,830) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['up'](956,825) Pixel[(0, 0, 0)]
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Успех] - Клавиша нажата 'left'
+[Info][-] - Proccess['down'](964,839) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['up'](956,825) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][+] - Proccess['left'](953,831) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['up'](964,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][-] - Proccess['down'](964,839) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['left'](953,836) Pixel[(0, 0, 0)]
+2
+[Info][+] - Proccess['up'](956,825) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][+] - Proccess['left'](952,833) Pixel[(0, 0, 0)]
+3
+[Info][-] - Proccess['up'](964,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)][Info][-] - Proccess['down'](964,839) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['up'](956,825) Pixel[(0, 0, 0)]
+1
+
+[Info][-] - Proccess['up'](964,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][+] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+1
+[Успех] - Клавиша нажата 'left'[Info][-] - Proccess['right'](968,830) Pixel[(255, 255, 255)]
+
+[Info][-] - Proccess['down'](964,839) Pixel[(71, 143, 207)]
+[Info][-] - Proccess['up'](964,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)][Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)][Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+
+1
+
+[Info][-] - Proccess['right'](968,830) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['down'](964,839) Pixel[(71, 143, 207)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['down'](964,839) Pixel[(71, 143, 207)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(255, 255, 255)][Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)][Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['right'](968,830) Pixel[(255, 255, 255)]
+
+
+[Info][-] - Proccess['down'](964,839) Pixel[(0, 0, 0)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['right'](968,830) Pixel[(0, 0, 0)]
+1
+[Info][+] - Proccess['left'](953,831) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,836) Pixel[(23, 87, 167)]
+[Info][-] - Proccess['left'](953,836) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['right'](968,830) Pixel[(0, 0, 0)][Info][+] - Proccess['left'](953,831) Pixel[(0, 0, 0)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)][Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+
+1
+1
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+
+[Info][-] - Proccess['right'](968,836) Pixel[(23, 87, 167)]
+[Info][-] - Proccess['left'](953,836) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['right'](968,830) Pixel[(0, 0, 0)]
+1
+[Info][+] - Proccess['left'](953,831) Pixel[(0, 0, 0)][Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,836) Pixel[(23, 87, 167)]
+1
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['right'](968,830) Pixel[(87, 135, 199)]
+
+1
+[Info][+] - Proccess['up'](956,825) Pixel[(0, 0, 0)][Info][-] - Proccess['left'](953,836) Pixel[(255, 255, 255)]
+
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)][Info][-] - Proccess['right'](968,836) Pixel[(255, 255, 255)]
+
+1
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(87, 135, 199)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['up'](964,825) Pixel[(0, 0, 0)]
+2
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(87, 135, 199)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['up'](961,823) Pixel[(0, 0, 0)]
+3
+[Info][-] - Proccess['left'](953,831) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(87, 135, 199)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['left'](953,831) Pixel[(0, 0, 0)]
+[Info][+] - Proccess['right'](968,830) Pixel[(0, 0, 0)]
+1
+[Успех] - Клавиша нажата 'up'
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['left'](953,831) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['right'](968,836) Pixel[(23, 87, 167)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['left'](953,836) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['right'](968,830) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)][Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['left'](953,831) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['right'](968,836) Pixel[(23, 87, 167)]
+
+[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['left'](953,836) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['right'](968,830) Pixel[(0, 0, 0)][Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+
+1[Info][-] - Proccess['up'](956,825) Pixel[(255, 255, 255)][Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)][Info][+] - Proccess['left'](953,831) Pixel[(0, 0, 0)]
+1
+
+
+
+[Info][-] - Proccess['left'](953,836) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['down'](957,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,836) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['up'](956,825) Pixel[(0, 0, 0)]
+[Info][+] - Proccess['left'](953,831) Pixel[(0, 0, 0)]
+1
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][+] - Proccess['up'](956,825) Pixel[(0, 0, 0)]
+1
+[Info][+] - Proccess['left'](953,836) Pixel[(0, 0, 0)]
+2
+[Info][-] - Proccess['down'](964,839) Pixel[(255, 255, 255)]
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][-] - Proccess['up'](964,825) Pixel[(255, 255, 255)]
+[Info][+] - Proccess['left'](952,833) Pixel[(0, 0, 0)]
+3
+[Info][+] - Proccess['down'](957,839) Pixel[(0, 0, 0)]
+1
+[Info][-] - Proccess['right'](968,830) Pixel[(191, 191, 191)]
+[Info][+] - Proccess['up'](956,825) Pixel[(210, 185, 89)]
+1[Info][-] - Proccess['right'](968,830) Pixel[(210, 185, 87)]
+[Info][-] - Proccess['right'](968,830) Pixel[(210, 185, 87)]
+OK[Успех] - Клавиша нажата 'left'
+
+[Info][-] - Proccess['left'](953,831) Pixel[(89, 32, 28)]
+
+[Info][-] - Proccess['down'](964,839) Pixel[(211, 184, 82)][Info][-] - Proccess['right'](968,830) Pixel[(210, 185, 87)]
+
+[Info][-] - Proccess['up'](964,825) Pixel[(93, 32, 28)]
+[Info][-] - Proccess['left'](953,831) Pixel[(88, 31, 26)]
+[Info][-] - Proccess['down'](957,839) Pixel[(142, 99, 70)]
+[Info][-] - Proccess['right'](968,830) Pixel[(98, 35, 31)]
+[Info][-] - Proccess['up'](956,825) Pixel[(63, 22, 18)]
+[Info][-] - Proccess['left'](953,831) Pixel[(57, 20, 19)]
+[Info][-] - Proccess['down'](957,839) Pixel[(97, 64, 47)]
+[Info][-] - Proccess['right'](968,830) Pixel[(96, 33, 28)]
+[Info][-] - Proccess['up'](956,825) Pixel[(54, 20, 17)]
+[Info][-] - Proccess['left'](953,831) Pixel[(70, 25, 22)]
+[Info][-] - Proccess['down'](957,839) Pixel[(62, 19, 17)]
+[Info][-] - Proccess['right'](968,830) Pixel[(79, 28, 25)][Info][-] - Proccess['up'](956,825) Pixel[(57, 20, 17)]
+[Info][-] - Proccess['left'](953,831) Pixel[(61, 21, 19)]
+
+[Info][-] - Proccess['down'](957,839) Pixel[(99, 35, 31)]
+[Info][-] - Proccess['up'](956,825) Pixel[(98, 35, 32)]
+[Info][-] - Proccess['left'](953,831) Pixel[(88, 30, 26)][Info][-] - Proccess['right'](968,830) Pixel[(210, 185, 87)]
+
+[Info][-] - Proccess['down'](957,839) Pixel[(136, 93, 67)]
+[Info][-] - Proccess['up'](956,825) Pixel[(83, 30, 27)]
+[Info][-] - Proccess['left'](953,831) Pixel[(91, 33, 30)]
+[Info][-] - Proccess['right'](968,830) Pixel[(210, 185, 87)]
+[Info][-] - Proccess['down'](957,839) Pixel[(211, 185, 82)]
+[Info][-] - Proccess['up'](956,825) Pixel[(210, 186, 89)]
+[Info][-] - Proccess['left'](953,831) Pixel[(115, 60, 50)]
+[Info][-] - Proccess['right'](968,830) Pixel[(210, 185, 87)]
+[Info][-] - Proccess['down'](957,839) Pixel[(211, 185, 82)]
+[Info][-] - Proccess['up'](956,825) Pixel[(210, 186, 89)]
+[Info][-] - Proccess['left'](953,831) Pixel[(210, 186, 85)]
+[Info][-] - Proccess['right'](968,830) Pixel[(210, 185, 87)]
+[Info][-] - Proccess['down'](957,839) Pixel[(211, 185, 82)]
+[Info][-] - Proccess['up'](956,825) Pixel[(210, 186, 89)]
+[Info][-] - Proccess['left'](953,831) Pixel[(210, 186, 85)]
+[Info][-] - Proccess['right'](968,830) Pixel[(210, 185, 87)]
+[Info][-] - Proccess['down'](957,839) Pixel[(211, 185, 82)]
+[Info][-] - Proccess['up'](956,825) Pixel[(89, 32, 29)]
+[Info][-] - Proccess['left'](953,831) Pixel[(139, 92, 68)]
+[Info][-] - Proccess['right'](968,830) Pixel[(210, 185, 87)]
+[Info][-] - Proccess['down'](957,839) Pixel[(211, 185, 82)]
+[Info][-] - Proccess['up'](956,825) Pixel[(101, 36, 31)]
+[Info][-] - Proccess['left'](953,831) Pixel[(169, 125, 95)]
+[Info][-] - Proccess['right'](968,830) Pixel[(210, 185, 87)]
+[Info][-] - Proccess['down'](957,839) Pixel[(161, 114, 86)][Info][-] - Proccess['up'](956,825) Pixel[(105, 37, 32)]
+
+[Info][-] - Proccess['left'](953,831) Pixel[(109, 43, 35)]
+[Info] - Процесс приостановлен
