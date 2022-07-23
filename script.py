@@ -2,8 +2,13 @@ from time import sleep
 import pyautogui
 import random
 
+restart = True
+pause = False
+d = 0
+
 
 def findByPixel(button):
+    global restart, d
     match button:
         case "down":
             x = [958, 962, 960]
@@ -19,21 +24,16 @@ def findByPixel(button):
             y = [830, 835, 833]
     i = 0
     for a, b in zip(x, y):
-
         pix = pyautogui.pixelMatchesColor(a, b, (255, 255, 255), tolerance=254)
-        # pixel = pyautogui.pixel(a, b)
         match pix:
             case False:
-                # print(
-                #     f"[Info][+] - Proccess['{button}']({a},{b}) Pixel[{pixel}]")
                 i += 1
                 if(i == 3):
-                    # sleep(random.uniform(0.05, 0.075))
+                    d = 0
+                    restart = True
                     click(button)
                     print(f"[Успех] - Клавиша нажата '{button}'")
             case True:
-                # print(
-                #     f"[Info][-] - Proccess['{button}']({a},{b}) Pixel[{pixel}]")
                 break
 
 
@@ -42,13 +42,15 @@ def click(button):
 
 
 def startThread(button):
+    global d, pause
     res = findByPixel(button)
-    match res:
-        case True:
-            click(button)
-            print(f"[Успех] - Клавиша нажата '{button}'")
-        case False:
-            pass
+    if(res == None):
+        if(d == 75 or d == 150):
+            pause = True
+            # print(pause)
+        elif(pause == True):
+            return
+        d += 1
 
 
 # --------------------------Методы-------------------------------
