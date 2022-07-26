@@ -47,7 +47,6 @@ def startThread(button):
     if(res == None):
         if(d == 75 or d == 150):
             pause = True
-            # print(pause)
         elif(pause == True):
             return
         d += 1

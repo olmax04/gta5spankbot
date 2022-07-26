@@ -41,11 +41,6 @@ def listen_F3():
     keyboard.on_release_key(key='E', callback=start)
 
 
-def greeting():
-    print(f"GTA5SPANKBOT v1.0 .by Olmax04")
-    print(f"Push 'E' to start and 'F9' to exit script")
-
-
 def starting(button):
     while event.is_set():
         if(script.restart == True):
@@ -63,12 +58,12 @@ def starting(button):
                 startThread(button)
 
 
-if __name__ == "__main__":
+def script_start():
+    global event, c, exit
     try:
         event = threading.Event()
         process = threading.Thread(target=listen_F3)
         process.start()
-        greeting()
         event.wait()
         while event.wait():
             if(exit == True):
@@ -81,3 +76,20 @@ if __name__ == "__main__":
         sys.exit()
     except Exception as e:
         print(e)
+# if __name__ == "__main__":
+#     try:
+#         event = threading.Event()
+#         process = threading.Thread(target=listen_F3)
+#         process.start()
+#         event.wait()
+#         while event.wait():
+#             if(exit == True):
+#                 break
+#             if(c == 4):
+#                 continue
+#             for i in ['up', 'down', 'left', 'right']:
+#                 threading.Thread(target=starting, name=i, args=(i,)).start()
+#                 c += 1
+#         sys.exit()
+#     except Exception as e:
+#         print(e)
