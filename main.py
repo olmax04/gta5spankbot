@@ -1,3 +1,4 @@
+from http.client import responses
 import sys
 import keyboard
 from time import sleep
@@ -5,10 +6,38 @@ from script import startThread
 import script
 import threading
 import pyautogui
-import random
+import requests
 
 exit = False
 c = 0
+
+
+def run_once(f):
+    global wrapper
+
+    def wrapper(*args):
+        if not wrapper.has_run:
+            wrapper.has_run = True
+            return f(*args)
+    wrapper.has_run = False
+    return wrapper
+
+
+@run_once
+def check(key):
+    lock.acquire()
+    r = requests.post(
+        "https://bot.olmaxdeveloper.online/api/check", json={'key': key})
+    response = r.json()
+    # print(response)
+    match response["status"]:
+        case "active": lock.release()
+        case "expired":
+            print(response["message"])
+            stop()
+        case "blocked":
+            print(response["message"])
+            stop()
 
 
 def stop(key_event):
@@ -17,9 +46,9 @@ def stop(key_event):
         event.clear()
         script.d = 0
         sleep(2)
-        print("[Info] - Процесс приостановлен")
+        run_once(print("[INFO] - Process stopped"))
     else:
-        print("Выход из приложения...")
+        print("Exiting...")
         sleep(3)
         exit = True
         event.set()
@@ -27,12 +56,13 @@ def stop(key_event):
 
 def start(key_event):
     global c
+    check(key_var)
     if not (event.is_set()):
-        print("[Info] - Процесс возобновлён")
         c = 0
         script.d = 0
         script.restart = True
         script.pause = False
+        print(f"[INFO] - Process started")
         event.set()
 
 
@@ -45,7 +75,7 @@ def starting(button):
     while event.is_set():
         if(script.restart == True):
             if(script.pause == True):
-                # print(f"[Info] - Restarting... ['{button}']")
+                check(key_var)
                 script.restart = False
                 script.pause = False
                 pyautogui.press("E")
@@ -58,9 +88,11 @@ def starting(button):
                 startThread(button)
 
 
-def script_start():
-    global event, c, exit
+def script_start(key):
+    global event, c, exit, lock, key_var
+    key_var = key
     try:
+        lock = threading.Lock()
         event = threading.Event()
         process = threading.Thread(target=listen_F3)
         process.start()
@@ -76,6 +108,7 @@ def script_start():
         sys.exit()
     except Exception as e:
         print(e)
+        input()
 # if __name__ == "__main__":
 #     try:
 #         event = threading.Event()

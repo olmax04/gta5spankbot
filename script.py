@@ -1,7 +1,7 @@
 from time import sleep
 import pyautogui
 import random
-
+from colorama import Fore, init, Style
 restart = True
 pause = False
 d = 0
@@ -32,7 +32,7 @@ def findByPixel(button):
                     d = 0
                     restart = True
                     click(button)
-                    print(f"[Успех] - Клавиша нажата '{button}'")
+                    print(f"[INFO] - Button pushed '{button}'")
             case True:
                 break
 

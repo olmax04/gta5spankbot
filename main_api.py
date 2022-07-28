@@ -1,9 +1,13 @@
+import os
 import subprocess
-from colorama import Fore
-from colorama import Style
+from colorama import Fore, init, Style
 import requests
 from main import script_start
-version = "1.2"
+import ctypes
+init()
+version = "1.3"
+ctypes.windll.kernel32.SetConsoleTitleW(f"SPANKBOT {version}")
+key = ""
 
 
 def get_id():
@@ -34,9 +38,10 @@ if(__name__ == "__main__"):
                           response["message"] + f"{Style.RESET_ALL}")
                 case 'active':
                     estimatedTime = response["estimatedTime"]
-                    days = response["estimatedTime"]['days']
-                    hours = response["estimatedTime"]['hours']
-                    minutes = response["estimatedTime"]['minutes']
+                    days = str(response["estimatedTime"]['days'])
+                    hours = str(response["estimatedTime"]['hours'])
+                    minutes = str(response["estimatedTime"]['minutes'])
+                    os.system('cls')
                     print(
                         f"{Fore.RED}GTA5SPANKBOT v{version}{Style.RESET_ALL} by Olmax04")
                     print(response["message"])
@@ -47,9 +52,9 @@ if(__name__ == "__main__"):
                 case 'blocked':
                     print(f"{Fore.RED}" +
                           response["message"] + f"{Style.RESET_ALL}")
-        script_start()
+        script_start(key)
     except Exception as e:
-        print("Connection lost... Please try again later.")
+        print("Connection lost or error with application. Please contact seller.")
     # if(status == 'admin'):
     #     g = Github("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")
 
