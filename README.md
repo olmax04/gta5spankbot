@@ -1,4 +1,4 @@
-﻿# Bot for farming blunts in GTA5RP
+﻿# Bot for farming blunts/spanks in GTA5RP
 
 > Warning: Bot works only in 16:9(1920x1080)
 
